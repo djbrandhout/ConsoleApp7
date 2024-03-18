@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
-    internal class NovaKlasa
-    {
-        Console.WriteLine("Ovo je nova klasa jej");
+    class Program {
+        internal class NovaKlasa
+        {
+            Console.WriteLine("Ovo je nova klasa jej");
+        
+    }
+        static void MyMethod()
+        {
+            // code to be executed
+        }
     }
 }
