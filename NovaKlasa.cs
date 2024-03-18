@@ -11,3 +11,4 @@ namespace ConsoleApp7
         Console.WriteLine("Ovo je nova klasa jej");
     }
 }
+#dodat ccu ovdje komentar
