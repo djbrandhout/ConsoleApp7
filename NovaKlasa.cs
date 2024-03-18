@@ -18,4 +18,4 @@ namespace ConsoleApp7
         }
     }
 }
-#dodat ccu ovdje komentar
+//dodat ccu ovdje komentar
