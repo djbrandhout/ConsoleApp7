@@ -8,6 +8,6 @@ namespace ConsoleApp7
 {
     internal class NovaKlasa
     {
-        Console.WriteLine("Ovo je nova klasa");
+        Console.WriteLine("Ovo je nova klasa jej");
     }
 }
